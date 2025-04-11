@@ -84,10 +84,6 @@
         </div>
     </div>
     
-            
-    
-                
-    
     <!-- Script Modal -->
     <script>
         function toggleModal(status) {
